@@ -1,0 +1,9 @@
+build/
+build-*/
+.cache/
+.idea/
+.vscode/
+*.o
+*.out
+perf.data*
+__pycache__/
